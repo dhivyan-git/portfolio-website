@@ -1,0 +1,103 @@
+{
+  "profile": {
+    "name": "Dhivyan Sree D",
+    "tagline": "IT undergrad building AI-powered mobile & full-stack tools",
+    "location": "Coimbatore, India",
+    "email": "amudhadhivyan@gmail.com",
+    "phone": "+91 8122053657",
+    "linkedin": "https://www.linkedin.com/in/dhivyan-sree-d-4121692a3",
+    "github": "https://github.com/dhivyan-git"
+  },
+  "education": [
+    {
+      "id": "edu-2",
+      "degree": "B.Tech, Information Technology",
+      "school": "Karpagam Institute of Technology, Coimbatore",
+      "period": "2023 – 2027",
+      "detail": "CGPA 7.83 / 10.0"
+    },
+    {
+      "id": "edu-1",
+      "degree": "Higher Secondary Course (HSC)",
+      "school": "Government Boys Higher Secondary School, Sankarapuram",
+      "period": "2022 – 2023",
+      "detail": "90.83%"
+    }
+  ],
+  "skills": {
+    "languages": [
+      { "name": "Java", "level": 80 },
+      { "name": "Python", "level": 85 },
+      { "name": "JavaScript", "level": 55 }
+    ],
+    "frameworks": [
+      { "name": "Node.js / Express.js", "level": 75 },
+      { "name": "Flutter", "level": 80 },
+      { "name": "Spring Boot", "level": 70 },
+      { "name": "React.js", "level": 70 }
+    ],
+    "databases": [
+      { "name": "MongoDB", "level": 70 },
+      { "name": "MySQL", "level": 75 }
+    ],
+    "soft": ["Problem Solving", "Teamwork", "Leadership"]
+  },
+  "projects": [
+    {
+      "id": "krishi-dost",
+      "name": "Krishi Dost",
+      "subtitle": "AI-Based Crop Recommendation System — Smart India Hackathon 2025",
+      "stack": ["Flutter", "Python", "TensorFlow"],
+      "points": [
+        "Built an AI-powered smart farming app that gives crop recommendations, soil analysis, and disease detection for farmers.",
+        "Shipped on-device image classification for early crop disease detection, cutting inference time and keeping the app usable offline.",
+        "Built RESTful APIs in Python to process soil and environmental data in real time and turn it into recommendations farmers can act on."
+      ],
+      "season": "Kharif entry",
+      "row": 1
+    },
+    {
+      "id": "statex",
+      "name": "Statex",
+      "subtitle": "Smart Expense Tracker",
+      "stack": ["React.js", "Spring Boot", "MySQL"],
+      "points": [
+        "Built full CRUD flows with search, filters, and category-wise tracking on Spring Boot REST APIs backed by MySQL.",
+        "Designed an analytics dashboard charting monthly spending trends and category-wise breakdowns.",
+        "Focused the UI on quick entry and at-a-glance insight, so tracking expenses stays a 10-second habit, not a chore."
+      ],
+      "season": "Rabi entry",
+      "row": 2
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-4",
+      "commit": "a1c40f9",
+      "title": "SIH 2025 Grand Finale Finalist",
+      "detail": "Smart India Hackathon 2025 — reached the national grand finale.",
+      "date": "2025"
+    },
+    {
+      "id": "ach-3",
+      "commit": "7fe218b",
+      "title": "Google Career Launchpad — Cloud Engineer Track",
+      "detail": "Completed the cloud engineering track.",
+      "date": "2025"
+    },
+    {
+      "id": "ach-2",
+      "commit": "3d90aa2",
+      "title": "NPTEL Elite — Software Testing",
+      "detail": "Elite certification.",
+      "date": "2024"
+    },
+    {
+      "id": "ach-1",
+      "commit": "0c5e77d",
+      "title": "NPTEL Elite — Education for Sustainable Development",
+      "detail": "Elite certification.",
+      "date": "2024"
+    }
+  ]
+}
